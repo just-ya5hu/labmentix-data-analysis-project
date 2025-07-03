@@ -1,0 +1,17 @@
+
+Project Title: Sales Analysis for Business Insights
+
+Objective:
+Analyze daily sales and profits across four regions to identify trends, underperforming areas, and potential improvements.
+
+Key Insights:
+- West region had the highest total sales.
+- Negative profits were observed on 3 days, indicating potential issues in pricing or high costs.
+- Profit margin varied significantly, highlighting inconsistency in operational efficiency.
+
+Tools Used:
+- Python (pandas, matplotlib)
+- Visuals: Bar chart (sales by region), Line chart (daily profit)
+
+Outcome:
+This basic analysis shows how data-driven decisions can identify weak areas in a business and improve performance.
